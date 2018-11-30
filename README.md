@@ -9,3 +9,5 @@
 [Trabalho 5 - Marco Aurélio Paiva e Alexandre Idearte](https://marcoaureliopaiva.github.io/Snake/index.html)
 <br>
 [Trabalho 7 - Marco Aurélio Paiva e Alexandre Idearte](https://marcoaureliopaiva.github.io/Trabalho-7/index.html)
+<br>
+[Trabalho 8 - Marco Aurélio Paiva e Alexandre Idearte](https://marcoaureliopaiva.github.io/Trabalho-8/index.html)
